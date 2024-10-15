@@ -1,0 +1,16 @@
+checkout_interval: 10
+csgo_site: https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=0&appid=730&offset=0&count=10&l=english
+ds_channel:
+ds_token:
+tg_channel:
+tg_thread:
+tg_token:
+upload_last: true
+vk_album_id:
+vk_api: https://api.vk.com
+vk_app:
+vk_auth: https://oauth.vk.com/authorize
+vk_owner:
+vk_photo:
+vk_token:
+vk_version: 5.236
